@@ -1,5 +1,5 @@
 <a href="https://github.com/siberiacancode">
-  <img src="https://media.licdn.com/dms/image/D4D12AQHtI0C1YdohQA/article-cover_image-shrink_720_1280/0/1694192663813?e=2147483647&v=beta&t=PzCttA7epMxw1abHI7hk3ig4ZozBvCQ0hratnFnkK9M" alt="
+  <img src="https://www.paragyte.com/img/React_Banner.png" alt="
       react+typescript" align="center"/>
 </a>
 <h1 align="left">:wave: Hello there! I'm Tamerlan Musaev</h1>
