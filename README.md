@@ -1,7 +1,6 @@
-<a href="https://github.com/siberiacancode">
-  <img src="https://www.paragyte.com/img/React_Banner.png" alt="
+
+<img src="https://www.paragyte.com/img/React_Banner.png" alt="
       react+typescript" align="center"/>
-</a>
 <h1 align="left">:wave: Hello there! I'm Tamerlan Musaev</h1>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
