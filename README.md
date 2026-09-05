@@ -1,5 +1,14 @@
 <div align="center">
 
+<div align="center">
+  <img
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed"
+    width="800"
+    alt="Web Development"
+  />
+</div>
+
+
 # 👋 Hi, I'm Tamerlan Musaev
 
 ### Frontend Developer • React • TypeScript • React Native
@@ -12,8 +21,6 @@ I build web applications, mobile apps and games — mostly with **React ecosyste
 [![VK](https://img.shields.io/badge/VK-dirtyTom-0077FF?style=for-the-badge\&logo=vk\&logoColor=white)](https://vk.com/dirtyTom)
 
 </div>
-
----
 
 ## 👨‍💻 About me
 
@@ -28,6 +35,13 @@ I build web applications, mobile apps and games — mostly with **React ecosyste
 ---
 
 ## 🔥 Tech Stack
+
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
+    width="500"
+  />
+</div>
 
 ### Frontend
 
@@ -66,6 +80,14 @@ I build web applications, mobile apps and games — mostly with **React ecosyste
 ---
 
 ## 🚀 What I work with
+
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+    width="500"
+    alt="Coding vibe"
+  />
+</div>
 
 ```text
 Frontend       React • TypeScript • Next.js
@@ -108,6 +130,14 @@ I'm especially interested in projects where I can combine development with produ
   </a>
 </p>
 
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+    width="400"
+    alt="Pacman"
+  />
+</div>
+
 ---
 
 <div align="center">
@@ -117,3 +147,4 @@ I'm especially interested in projects where I can combine development with produ
 *Building things, breaking things, fixing things and shipping them.*
 
 </div>
+
