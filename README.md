@@ -1,225 +1,141 @@
+<div align="center">
 
-<img src="https://www.paragyte.com/img/React_Banner.png" alt="
-      react+typescript" align="center"/>
-<h1 align="left">:wave: Hello there! I'm Tamerlan Musaev</h1>
+# 👋 Hi, I'm Tamerlan Musaev
 
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+### Frontend Developer • React • TypeScript • React Native
 
-> General
+I build web applications, mobile apps and games — mostly with **React ecosystem & TypeScript**.
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>javascript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-      </a>
-      <br>typescript
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-      </a>
-      <br>figma
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>github
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>docker
-    </td>
-  </tr> 
-</table>
+<br />
 
-> Testing
+[![Telegram](https://img.shields.io/badge/Telegram-LewsTelamon-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/LewsTelamon)
+[![VK](https://img.shields.io/badge/VK-dirtyTom-0077FF?style=for-the-badge\&logo=vk\&logoColor=white)](https://vk.com/dirtyTom)
 
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-  </tr> 
-</table>
+</div>
 
-> Code quality
+---
 
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>eslint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>stylelint
-    </td>
-  </tr> 
-</table>
+## 👨‍💻 About me
 
-> Frontend
+* ⚛️ Frontend developer focused on **React & TypeScript**
+* 📱 Building mobile apps with **React Native / Expo**
+* 🧠 Working with state management using **Redux Toolkit**
+* 🛠️ Can handle backend tasks with **Node.js, Express, PostgreSQL & Prisma**
+* 🐳 Using **Docker** for development and deployment
+* 🎮 In my free time I develop **games and side projects**
+* 🚀 Interested in building complete products — from idea to production
 
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
-      </a>
-      <br>React
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
- <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-    <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
-</table>
+---
 
-> Backend
+## 🔥 Tech Stack
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-  </tr> 
-</table>
+### Frontend
 
-## ☄️ Contact
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,html,css,sass,tailwind,materialui,vite,webpack" />
+</p>
 
+### Mobile
 
-- :bird: &nbsp;**[VK](https://vk.com/dirtyTom)**
-- :airplane: &nbsp;**[Telegram](https://t.me/LewsTelamon)**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts" />
+</p>
 
-<br>
+**React Native • Expo**
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,graphql" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,npm,yarn,figma,vscode" />
+</p>
+
+### Testing & Code Quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+**ESLint • Prettier • Stylelint**
+
+---
+
+## 🚀 What I work with
+
+```text
+Frontend       React • TypeScript • Next.js
+State          Redux Toolkit • MobX
+Mobile         React Native • Expo
+Backend        Node.js • Express • NestJS
+Databases      PostgreSQL • MongoDB
+ORM            Prisma
+API            REST • GraphQL
+Styling        CSS • Sass • Tailwind CSS • MUI
+Tooling        Vite • Webpack
+DevOps         Docker • Linux • Git
+Testing        Jest
+```
+
+---
+
+## 🎮 Current interests
+
+I'm especially interested in projects where I can combine development with product ideas:
+
+* 🎮 Browser & mobile games
+* 📱 React Native applications
+* 🌐 Full-stack web applications
+* 🤖 AI-assisted development
+* 🧩 Complex application architecture
+* ⚙️ Backend APIs and integrations
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TomMorningStar&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomMorningStar&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/TomMorningStar/TomMorningStar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Contact me
+
+<p>
+  <a href="https://t.me/LewsTelamon">
+    <img src="https://img.shields.io/badge/Telegram-@LewsTelamon-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://vk.com/dirtyTom">
+    <img src="https://img.shields.io/badge/VK-dirtyTom-0077FF?style=flat-square&logo=vk&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### `React + TypeScript = ❤️`
+
+*Building things, breaking things, fixing things and shipping them.*
+
+</div>
