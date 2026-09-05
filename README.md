@@ -96,28 +96,6 @@ I'm especially interested in projects where I can combine development with produ
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TomMorningStar&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomMorningStar&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TomMorningStar/TomMorningStar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Contact me
 
 <p>
